@@ -14,7 +14,7 @@
 - husky
 - typescript
 
-## setup
+## Setup
 
 Install dependencies:
 
@@ -22,8 +22,15 @@ Install dependencies:
 npm i
 ```
 
-## test
+## Run development
+
+```bash
+npm run dev
+```
+
+## Test
 
 ```bash
 npm test
 ```
+
